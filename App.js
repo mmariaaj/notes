@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
         flex: 1,
         height: 30,
         color: '#fff'
+        
     },
     textfield:{
         width: '100%',
